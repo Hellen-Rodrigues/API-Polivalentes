@@ -1,36 +1,38 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Sistema de Levantamento de Dados Econômicos de São José dos Campos
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+Este projeto foi desenvolvido com o objetivo de analisar dados econômicos da cidade de São José dos Campos, utilizando informações oficiais para entender melhor os principais setores da economia por meio de um painel interativo.
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+O projeto segue a metodologia ágil SCRUM, buscando desenvolver habilidades como organização, trabalho em equipe, autonomia e responsabilidade na entrega das atividades.
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#equipe)
 * [Backlog do produto](#product-backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#registro-das-sprints)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil.  
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO).  
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint.
+Projeto voltado ao mapeamento dos principais setores econômicos de São José dos Campos, com base em dados oficiais, visando identificar padrões, relevância econômica e apoiar a tomada de decisão.  
+
+A proposta envolve coleta, tratamento e análise de dados, além da construção de um painel interativo para visualização das informações. O desenvolvimento segue uma abordagem prática baseada em resolução de problemas reais e utilização de ferramentas de análise de dados.
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo mapear os principais setores econômicos e empresas de São José dos Campos, utilizando dados oficiais para gerar análises estratégicas e apoiar a tomada de decisão.
+
+Objetivos específicos:
+* Coletar dados econômicos por meio da base RAIS;
+* Organizar e tratar os dados em planilhas;
+* Identificar os setores mais relevantes do município;
+* Estruturar os dados para visualização;
+* Desenvolver um dashboard interativo;
+* Utilizar o GitHub para versionamento e organização do projeto.
 
 ## Tecnologias Utilizadas
-* Jira Software
-* Power BI
+* Canva
+* Trello
+* Python
+* GitHub
 * Microsoft Excel
-* Slack
-* Python (Colab)
-* MySQL
+* Power BI
 
 # Product Backlog
 | Rank | Prioridade | User Story | Estimativa | Sprint |
