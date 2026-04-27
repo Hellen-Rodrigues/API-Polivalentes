@@ -1,18 +1,12 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+O MVP tem como propósito reunir e estruturar dados oficiais sobre os setores econômicos de São José dos Campos. Ele resolve o problema da dispersão e falta de organização dessas informações, oferecendo uma base confiável para análise inicial. A hipótese a ser validada é que mesmo sem recursos interativos, a disponibilização dos dados já atende à demanda do cliente. O valor entregue ao cliente será o acesso claro e estruturado às informações locais, servindo como fundamento para etapas futuras do projeto.
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+Nesta etapa, a solução consiste em reunir e organizar dados oficiais sobre os setores econômicos de São José dos Campos, entregando uma base estruturada para análise inicial. As principais funcionalidades são a coleta e tratamento dos dados, com documentação no GitHub. As limitações incluem a ausência de recursos interativos e dashboards prontos, já que o foco está apenas na preparação dos dados. O escopo é reduzido ao essencial: disponibilizar informações confiáveis e organizadas para validar a ideia.  
 
 ---
 
