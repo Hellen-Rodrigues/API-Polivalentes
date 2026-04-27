@@ -37,11 +37,24 @@ Objetivos específicos:
 # Product Backlog
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
-| 1 | Alta | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município | 5 | 1 |
-| 2 | Alta | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento | 8 | 1 |
-| 3 | Alta | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura | 5 | 2 |
-| ... | Média | ... | ... | ... |
-| 17 | Baixa | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes | 2 | 3 |
+| 1 | Alta | Como analista, quero consolidar dados públicos (RAIS, IBGE etc.) para criar uma base confiável do projeto | 5 | 1 |
+| 2 | Alta | Como analista, quero filtrar os dados de São José dos Campos para garantir análises específicas da região | 5 | 1 |
+| 3 | Alta | Como analista, quero dados limpos e padronizados para garantir consistência nas análises (Google Colab) | 5 | 1 |
+| 4 | Alta | Como analista, quero organizar os dados em estrutura analítica para facilitar exploração (Google Colab) | 8 | 1 |
+| 5 | Alta | Como analista, quero classificar empresas por setor econômico para identificar segmentos relevantes (CNAE) | 5 | 1 |
+| 6 | Alta | Como analista, quero identificar padrões e tendências nos dados para gerar insights | 5 | 1
+| 7 | Média | Como analista, quero analisar a distribuição geográfica das empresas para entender concentração regional | 8 | 2 |
+| 8 | Alta | Como tomador de decisão, quero visualizar os principais setores econômicos para identificar os segmentos predominantes da região | 5 | 2 |
+| 9 | Alta | Como tomador de decisão, quero dashboards interativos para explorar os dados de forma dinâmica e intuitiva (Power BI) | 8 | 2 |
+| 10 | Alta | Como tomador de decisão, quero visualizar a distribuição geográfica das empresas para entender a dinâmica regional | 8 | 2 |
+| 11 | Média | Como tomador de decisão, quero comparar setores econômicos para identificar oportunidades de investimento | 5 | 2 |
+| 12 | Média | Como equipe, queremos documentar o projeto para garantir rastreabilidade e entendimento (GITHUB) | 3 | 1,3 |
+| 13 | Média | Como equipe, queremos organizar dados e códigos para facilitar manutenção | 3 | 3 |
+| 14 | Média | Como equipe, queremos documentar a metodologia para garantir transparência | 5 | 1,3 |
+| 15 | Média | Como equipe, queremos revisar e validar todos os outputs do projeto para garantir qualidade, consistência e prontidão para entrega final | 5 | 3 |
+| 16 | Baixa | Como stakeholder, quero dashboards finais para apoiar decisões estratégicas | 8 | 3 |
+| 17 | Baixa | Como stakeholder, quero um relatório técnico para entender a análise realizada | 8 | 3 |
+| 18 | Baixa | Como equipe, queremos apresentar o projeto de forma clara para demonstrar os resultados (Feira de soluções) | 5 | 3 |
 
 # Registro das Sprints
 | Sprint | Previsão | Status | Histórico |
