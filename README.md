@@ -68,8 +68,9 @@ Objetivos específicos:
 | 2 | Alta | Como gestor público, quero um mapa interativo mostrando a localização das empresas por bairro e município para planejar melhorias na infraestrutura urbana e logística de transporte. | 13 | 2 |
 | 3 | Média | Como pesquisador de mercado, quero classificar as empresas por tipo de atividade (manufatura, tecnologia, logística) para compreender a especialização produtiva de cada polo regional. | 8 | 2 |
 | 4 | Média | Como consultor de processos, quero mapear os macroprocessos das maiores empresas da região para propor modelos de eficiência e produtividade aplicáveis ao mercado local. | 3 | 2 |
-| 5 | Alta | Como diretor de inovação, quero analisar a correlação entre os setores industriais instalados e o nível de desenvolvimento tecnológico regional para fortalecer o ecossistema de ciência e tecnologia. | 8 | 2 |
-| 6 | Baixa | Como estudante de Engenharia de Produção, quero identificar as competências e áreas de atuação mais demandadas pelas empresas locais para alinhar meu desenvolvimento profissional às necessidades do mercado regional. | 5 | 2 |
+| 5 | Alta | Como diretor de inovação, quero analisar a correlação entre os setores industriais instalados e o nível de desenvolvimento tecnológico regional para fortalecer o ecossistema de ciência e tecnologia. | 8 | 3 |
+| 6 | Baixa | Como estudante de Engenharia de Produção, quero identificar as competências e áreas de atuação mais demandadas pelas empresas locais para alinhar meu desenvolvimento profissional às necessidades do mercado regional. | 5 | 3 |
+| 7 | Baixa | Como equipe do projeto, quero realizar uma revisão geral de todas as entregas e funcionalidades desenvolvidas e adicionar melhorias, para garantir que tudo esteja conforme os requisitos do parceiro e sem inconsistências antes da entrega final. | 5 | 3 |
 
 # Registro das Sprints
 | Sprint | Previsão | Status | Histórico |
