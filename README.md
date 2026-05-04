@@ -35,6 +35,9 @@ Objetivos específicos:
 * Power BI
 
 # Product Backlog
+### 🟡 User Stories Antigas (Versão 1) 
+> Esas user stories correspondem à versão inicial do backlog, antes das atualizações realizadas após alinhamentos e feedbacks.
+
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
 | 1 | Alta | Como analista, quero consolidar dados públicos (RAIS, IBGE etc.) para criar uma base confiável do projeto | 5 | 1 |
@@ -56,10 +59,22 @@ Objetivos específicos:
 | 17 | Baixa | Como stakeholder, quero um relatório técnico para entender a análise realizada | 8 | 3 |
 | 18 | Baixa | Como equipe, queremos apresentar o projeto de forma clara para demonstrar os resultados (Feira de soluções) | 5 | 3 |
 
+### 🟢 User Stories Atualizadas (Versão 2)
+> Backlog atualizado com melhorias e ajustes após revisões da equipe e alinhamentos do projeto.
+
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|------------|------------|------------|--------|
+| 1 | Alta | Como analista, quero ver os principais setores industriais e de serviços presentes na região de São José dos Campos para identificar a força econômica local e atrair novos investimentos. | 8 | 2 |
+| 2 | Alta | Como gestor público, quero um mapa interativo mostrando a localização das empresas por bairro e município para planejar melhorias na infraestrutura urbana e logística de transporte. | 13 | 2 |
+| 3 | Média | Como pesquisador de mercado, quero classificar as empresas por tipo de atividade (manufatura, tecnologia, logística) para compreender a especialização produtiva de cada polo regional. | 8 | 2 |
+| 4 | Média | Como consultor de processos, quero mapear os macroprocessos das maiores empresas da região para propor modelos de eficiência e produtividade aplicáveis ao mercado local. | 3 | 2 |
+| 5 | Alta | Como diretor de inovação, quero analisar a correlação entre os setores industriais instalados e o nível de desenvolvimento tecnológico regional para fortalecer o ecossistema de ciência e tecnologia. | 8 | 2 |
+| 6 | Baixa | Como estudante de Engenharia de Produção, quero identificar as competências e áreas de atuação mais demandadas pelas empresas locais para alinhar meu desenvolvimento profissional às necessidades do mercado regional. | 5 | 2 |
+
 # Registro das Sprints
 | Sprint | Previsão | Status | Histórico |
 |--------|----------|--------|-----------|
-| 01 | 27/04/2026 | em andamento | [MVP](MVP/sp1.md) |
+| 01 | 27/04/2026 | Concluído | [MVP](MVP/sp1.md) |
 | 02 | 18/05/2026 | a fazer | [MVP](MVP/sp2.md) |
 | 03 | 08/06/2026 | a fazer | [MVP](MVP/sp3.md) |
 | Feira de Soluções | 18/06/2026 | a fazer | [MVP](#) |
