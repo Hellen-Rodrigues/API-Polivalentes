@@ -1,19 +1,32 @@
-# Sistema de Levantamento de Dados Econômicos de São José dos Campos
+<div align="center">
+<img src="https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/polivalentes_capa.jpeg " width="900" /> 
+</div>
 
-Este projeto foi desenvolvido com o objetivo de analisar dados econômicos da cidade de São José dos Campos, utilizando informações oficiais para entender melhor os principais setores da economia por meio de um painel interativo.
+> Nossa logo “Prisma de Excelência” representa a união de diferentes talentos, ideias e habilidades que convergem para um único objetivo: alcançar resultados de qualidade e destaque. Assim como a luz atravessa o prisma e se transforma em um feixe brilhante, nossa equipe transforma dedicação e conhecimento em projetos eficientes e criativos.
 
-O projeto segue a metodologia ágil SCRUM, buscando desenvolver habilidades como organização, trabalho em equipe, autonomia e responsabilidade na entrega das atividades.
+# Aprendizagem por Projeto Integrado (API)
+A Aprendizagem por Projeto Integrado (API) é uma metodologia educacional baseada no desenvolvimento de projetos práticos e interdisciplinares, permitindo que os estudantes integrem conhecimentos de diferentes áreas para solucionar problemas reais ou criar soluções inovadoras. Nesse contexto, o projeto é conduzido utilizando a metodologia Scrum, um modelo ágil de gerenciamento que organiza as atividades em etapas chamadas sprints, promovendo planejamento, acompanhamento contínuo, colaboração em equipe e entregas incrementais. Dessa forma, a aplicação conjunta dessas metodologias favorece o desenvolvimento de competências técnicas, pensamento crítico, organização, comunicação e trabalho em equipe ao longo de todas as fases do projeto.
 
 # Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Projeto](#projeto-(API))
 * [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
 * [Backlog do produto](#product-backlog)
 * [Registro das Sprints](#registro-das-sprints)
 
 # Projeto (API) 
-Projeto voltado ao mapeamento dos principais setores econômicos de São José dos Campos, com base em dados oficiais, visando identificar padrões, relevância econômica e apoiar a tomada de decisão.  
+Este projeto tem como objetivo realizar o mapeamento e a análise dos principais setores econômicos de São José dos Campos, utilizando dados oficiais para identificar padrões, relevância econômica e apoiar a tomada de decisão. A proposta envolve a coleta, tratamento e análise de dados, além do desenvolvimento de um painel interativo para visualização das informações, proporcionando uma compreensão mais estruturada da economia regional. O desenvolvimento do projeto segue uma abordagem prática baseada na resolução de problemas reais e na utilização de ferramentas de análise de dados, sendo conduzido por meio da metodologia ágil Scrum, que promove organização, trabalho em equipe, autonomia, acompanhamento contínuo das atividades e responsabilidade nas entregas.
 
-A proposta envolve coleta, tratamento e análise de dados, além da construção de um painel interativo para visualização das informações. O desenvolvimento segue uma abordagem prática baseada em resolução de problemas reais e utilização de ferramentas de análise de dados.
+# Equipe
+| Função | Nome | LinkedIn & GitHub |
+| :---: | :--- | :---: |
+| Scrum Master | Lucas Dos Santos Batista De Oliveira | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbatistadeoliveira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas4bsoliveira-creator) |
+| Product Owner | Hellen Rodrigues Eugênio | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellen-rodrigues565/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hellen-Rodrigues) |
+| Team Member | Diego Barbosa da Silva | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-barbosa-silva/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego-silva807) |
+| Team Member | Gabriel Cardoso da Silva | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardoso-da-silva-583b69397/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcardososilva2728) |
+| Team Member | Maria Eduarda Martini Pinto | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-martini-2748713b7/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dudamartini01) |
+| Team Member | Valéria Cristine de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/val%C3%A9ria-cristine-d-458937138/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeriacristinee) |
+| Team Member | Yan Alcalde Neves | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-neves-862a5234a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yanneves2007) |
 
 # Objetivo do Projeto
 Este projeto tem como objetivo mapear os principais setores econômicos e empresas de São José dos Campos, utilizando dados oficiais para gerar análises estratégicas e apoiar a tomada de decisão.
@@ -75,18 +88,8 @@ Objetivos específicos:
 # Registro das Sprints
 | Sprint | Previsão | Status | Histórico |
 |--------|----------|--------|-----------|
+| 00 | 30/03/2026 | Concluído | [MVP](https://youtu.be/Xu6sz3J2yP8) |
 | 01 | 27/04/2026 | Concluído | [MVP](MVP/sp1.md) |
 | 02 | 18/05/2026 | Em andamento | [MVP](MVP/sp2.md) |
 | 03 | 08/06/2026 | a fazer | [MVP](MVP/sp3.md) |
 | Feira de Soluções | 18/06/2026 | a fazer | [MVP](#) |
-
-# Equipe
-| Função | Nome | LinkedIn & GitHub |
-| :---: | :--- | :---: |
-| Scrum Master | Lucas Dos Santos Batista De Oliveira | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbatistadeoliveira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas4bsoliveira-creator) |
-| Product Owner | Hellen Rodrigues Eugênio | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellen-rodrigues565/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hellen-Rodrigues) |
-| Team Member | Diego Barbosa da Silva | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-barbosa-silva/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego-silva807) |
-| Team Member | Gabriel Cardoso da Silva | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardoso-da-silva-583b69397/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcardososilva2728) |
-| Team Member | Maria Eduarda Martini Pinto | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-martini-2748713b7/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dudamartini01) |
-| Team Member | Valéria Cristine de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/val%C3%A9ria-cristine-d-458937138/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeriacristinee) |
-| Team Member | Yan Alcalde Neves | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-neves-862a5234a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yanneves2007) |
