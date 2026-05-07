@@ -62,16 +62,15 @@ O foco do MVP é a preparação dos dados, disponibilizar informações confiáv
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve possibilitar a visualização da organização da base de dados utilizada no projeto, assim como apresentar um protótipo inicial do dashboard. 
+- O sistema deve apresentar dados sobre os principais setores industriais e de serviços presentes na região de São José dos Campos.
+- As métricas coletadas devem incluir: número de setores industriais e de serviços da região, indicadores econômicos e produtivos relevantes, comparações entre diferentes segmentos industriais ou de serviços.
+ 
 
 ---
 
-## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+## 📈 Métricas de Validação  
+- Feedback qualitativo: positivo, havendo, ainda, orientações quanto a pontos de melhoria, com o objetivo de aprimorar a qualidade e a efetividade da solução desenvolvida.
 
 ---
 
@@ -83,6 +82,5 @@ O foco do MVP é a preparação dos dados, disponibilizar informações confiáv
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP): 
+- Protótipo:
+- Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/eHKsykrV-28)
