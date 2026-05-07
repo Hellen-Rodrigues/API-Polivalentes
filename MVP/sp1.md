@@ -1,12 +1,30 @@
 # 📌 MVP - Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos
 
 ## 🎯 Objetivo do MVP
-O MVP tem como propósito reunir e estruturar dados oficiais sobre os setores econômicos de São José dos Campos. Ele resolve o problema da dispersão e falta de organização dessas informações, oferecendo uma base confiável para análise inicial. A hipótese a ser validada é que mesmo sem recursos interativos, a disponibilização dos dados já atende à demanda do cliente. O valor entregue ao cliente será o acesso claro e estruturado às informações locais, servindo como fundamento para etapas futuras do projeto.
+> O MVP tem como propósito reunir e estruturar dados oficiais sobre os setores econômicos de São José dos Campos e validar a versão inicial do dashboard em Power BI
+
+## 🧩 Problema que resolve
+ Falta de uma ferramenta estruturada, interativa e visualmente organizada para a análise dos dados relacionados ao ecossistema industrial e de serviços da região de São José dos Campos.
+
+## 💡 Hipótese a ser validada
+Um protótipo inicial do dashboard em Microsoft Power BI, aliado à organização e disponibilização dos dados, facilita a compreensão dos indicadores e apoia a tomada de decisões estratégicas, permitindo uma análise clara e objetiva das informações.
+
+## 🚀 Valor entrege ao usuário
+Acesso claro e estruturado às informações locais, servindo como fundamento para etapas futuras do projeto.
 
 ---
 
 ## 📝 Descrição da Solução
-Nesta etapa, a solução consiste em reunir e organizar dados oficiais sobre os setores econômicos de São José dos Campos, entregando uma base estruturada para análise inicial. As principais funcionalidades são a coleta e tratamento dos dados, com documentação no GitHub. As limitações incluem a ausência de recursos interativos e dashboards prontos, já que o foco está apenas na preparação dos dados. O escopo é reduzido ao essencial: disponibilizar informações confiáveis e organizadas para validar a ideia.  
+Nesta etapa, a solução consiste em reunir e organizar dados oficiais sobre os setores econômicos de São José dos Campos, entregando uma base estruturada para análise inicial. 
+
+## ⚙️Funcionalidades principais
+As principais funcionalidades são a coleta e tratamento dos dados, com documentação no GitHub.
+
+## ⚠️ Limitações 
+As limitações incluem a ausência de recursos interativos e dashboards prontos, já que o foco está apenas na preparação dos dados.
+
+## 🎯 Escopo reduzido
+O escopo é reduzido ao essencial: disponibilizar informações confiáveis e organizadas para validar a ideia.  
 
 ---
 
