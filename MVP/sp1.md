@@ -9,44 +9,55 @@
 ## 💡 Hipótese a ser validada
 Um protótipo inicial do dashboard em Microsoft Power BI, aliado à organização e disponibilização dos dados, facilita a compreensão dos indicadores e apoia a tomada de decisões estratégicas, permitindo uma análise clara e objetiva das informações.
 
-## 🚀 Valor entrege ao usuário
+## 🚀 Valor entregue ao usuário
 Acesso claro e estruturado às informações locais, servindo como fundamento para etapas futuras do projeto.
 
 ---
 
 ## 📝 Descrição da Solução
-Nesta etapa, a solução consiste em reunir e organizar dados oficiais sobre os setores econômicos de São José dos Campos, entregando uma base estruturada para análise inicial. 
+> Nesta etapa, a solução consiste em reunir e organizar dados oficiais sobre os setores econômicos de São José dos Campos, entregando uma base estruturada para análise inicial. 
 
 ## ⚙️Funcionalidades principais
-As principais funcionalidades são a coleta e tratamento dos dados, com documentação no GitHub.
+* Coleta e tratamento dos dados da RAIS e do IBGE.
+* Desenvolvimento de um protótipo de dashboard, com visualização planejada e organizada dos dados para facilitar a análise das informações.
 
 ## ⚠️ Limitações 
-As limitações incluem a ausência de recursos interativos e dashboards prontos, já que o foco está apenas na preparação dos dados.
+* Ausência de recursos gráficos interativos, sem filtros aperfeiçoados.
+* A base de dados está limitada ao período de 2024 e às fontes integradas na primeira sprint (RAIS e IBGE).
 
 ## 🎯 Escopo reduzido
-O escopo é reduzido ao essencial: disponibilizar informações confiáveis e organizadas para validar a ideia.  
+O foco do MVP é a preparação dos dados, disponibilizar informações confiáveis e organizadas para validar a ideia.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+* **Persona 1 - Gestor Público (Prefeitura):**
+   - Descrição: Profissional responsável pelo planejamento e pela tomada de decisões estratégicas no âmbito municipal.
+   - Necessidades: Acesso rápido a dados confiáveis, visualizações claras dos indicadores e informações consolidadas que apoiem a formulação de políticas públicas.
+   - Dores atendidas: Dificuldade em interpretar grandes volumes de dados dispersos, falta de centralização das informações e limitação na visualização clara para embasar decisões.
+     
+* **Persona 2 - Analista de Dados:**
+   - Descrição: Profissional responsável pela coleta, organização e análise de dados para geração de insights.
+   - Necessidades: Dados estruturados, ferramentas de visualização eficientes e facilidade na exploração das informações.
+   - Dores atendidas: Tempo elevado na organização e tratamento de dados, dificuldade em consolidar diferentes fontes e limitação na apresentação clara dos resultados.  
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como analista, quero coletar dados públicos (RAIS, IBGE) para construir a base do projeto. | Alta | 8 pontos |
+| US2 | Como analista, quero filtrar dados de São José dos Campos para organizá-los. | Alta   | 5 pontos  |
+| US3 | Como analista, quero organizar os dados no Google Colab para tratá-los. | Alta | 5 pontos  |
+| US4 | Como analista, quero tratar os dados utilizando Python no Google Colab para classificá-los. | Alta | 8 pontos |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Coleta e tratamento de dados (RAIS e IBGE)   | Concluído|
+| 01     | Protótipo do Dashboard Power BI              | Concluído|
 
 ---
 
@@ -65,13 +76,13 @@ O escopo é reduzido ao essencial: disponibilizar informações confiáveis e or
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Reestruturação do backlog (Versão 2)  
+- Desenvolver as telas de dashboard interativo no Power BI  
+- Atualizações da planilha (base de dados)  
 
 ---
 
 ## 📂 Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Vídeo (MVP): 
