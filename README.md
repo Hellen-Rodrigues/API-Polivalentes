@@ -2,7 +2,7 @@
 <img src="https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/polivalentes_capa.jpeg " width="900" /> 
 </div>
 
-> Nossa logo “Prisma de Excelência” representa a união de diferentes talentos, ideias e habilidades que convergem para um único objetivo: alcançar resultados de qualidade e destaque. Assim como a luz atravessa o prisma e se transforma em um feixe brilhante, nossa equipe transforma dedicação e conhecimento em projetos eficientes e criativos.
+> “Prisma de Excelência” representa a união de diferentes talentos, ideias e habilidades que convergem para um único objetivo: alcançar resultados de qualidade e destaque. Assim como a luz atravessa o prisma e se transforma em um feixe brilhante, nossa equipe transforma dedicação e conhecimento em projetos eficientes e criativos.
 
 # Aprendizagem por Projeto Integrado (API)
 A Aprendizagem por Projeto Integrado (API) é uma metodologia educacional baseada no desenvolvimento de projetos práticos e interdisciplinares, permitindo que os estudantes integrem conhecimentos de diferentes áreas para solucionar problemas reais ou criar soluções inovadoras. Nesse contexto, o projeto é conduzido utilizando a metodologia Scrum, um modelo ágil de gerenciamento que organiza as atividades em etapas chamadas sprints, promovendo planejamento, acompanhamento contínuo, colaboração em equipe e entregas incrementais. Dessa forma, a aplicação conjunta dessas metodologias favorece o desenvolvimento de competências técnicas, pensamento crítico, organização, comunicação e trabalho em equipe ao longo de todas as fases do projeto.
