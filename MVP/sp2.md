@@ -5,8 +5,12 @@
 
 ## 🧩 Problema que resolve 
 > Qual problema resolve?
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+
+## 💡 Hipótese a ser validada
+> Qual hipótese será validada?  
+
+## 🚀 Valor entregue ao usuário
+> Qual valor será entregue ao usuário final?  
 
 ---
 
