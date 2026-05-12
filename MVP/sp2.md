@@ -1,16 +1,18 @@
 # 📌 MVP - Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos
 
 ## 🎯 Objetivo do MVP
-> Desenvolver um dashboard interativo em Power BI, utilizando os dados coletados na primeira sprint, para responder as principais perguntas do cliente sobre setores industriais e de serviços da região de São José dos Campos.
+> Desenvolver um dashboard interativo em Microsoft Power BI, utilizando os dados coletados na primeira sprint, para responder as principais perguntas do cliente sobre setores industriais e de serviços da região de São José dos Campos.
 
 ## 🧩 Problema que resolve 
 > A ausência de uma ferramenta visual e interativa que permite compreender a distribuição geográfica e os indicadores econômicos dos setores industriais e de serviços, dificultando análises estratégicas.
 
 ## 💡 Hipótese a ser validada
-> Qual hipótese será validada?  
+> A visualização interativa do dashboard em Microsoft Power BI, com favorecimento à análise comparativa dos setores no processo decisório.   
 
 ## 🚀 Valor entregue ao usuário
-> Qual valor será entregue ao usuário final?  
+> * Visualização clara da distribuição dos setores
+> * Gráficos que exibem a predominância de atividades produtivas e vínculos de emprego
+> * Identificação de oportunidades profissionais para engenheiros de produção.
 
 ---
 
