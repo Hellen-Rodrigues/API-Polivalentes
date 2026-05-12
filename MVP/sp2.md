@@ -4,7 +4,7 @@
 > Desenvolver um dashboard interativo em Power BI, utilizando os dados coletados na primeira sprint, para responder as principais perguntas do cliente sobre setores industriais e de serviços da região de São José dos Campos.
 
 ## 🧩 Problema que resolve 
-> Qual problema resolve?
+> A ausência de uma ferramenta visual e interativa que permite compreender a distribuição geográfica e os indicadores econômicos dos setores industriais e de serviços, dificultando análises estratégicas.
 
 ## 💡 Hipótese a ser validada
 > Qual hipótese será validada?  
