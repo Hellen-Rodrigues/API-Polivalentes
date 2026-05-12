@@ -1,7 +1,7 @@
 # 📌 MVP - Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
+> Desenvolver um dashboard interativo em Power BI, utilizando os dados coletados na primeira sprint, para responder as principais perguntas do cliente sobre setores industriais e de serviços da região de São José dos Campos.
 
 ## 🧩 Problema que resolve 
 > Qual problema resolve?
