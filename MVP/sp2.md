@@ -7,11 +7,11 @@
 > A ausência de uma ferramenta visual e interativa que permite compreender a distribuição geográfica e os indicadores econômicos dos setores industriais e de serviços, dificultando análises estratégicas.
 
 ## 💡 Hipótese a ser validada
-> A visualização interativa do dashboard em Microsoft Power BI, com favorecimento à análise comparativa dos setores no processo decisório.   
+> A visualização interativa do dashboard em Microsoft Power BI, com favorecimento à análise comparativa dos setores em processos decisórios.   
 
 ## 🚀 Valor entregue ao usuário
-> * Visualização clara da distribuição dos setores
-> * Gráficos que exibem a predominância de atividades produtivas e vínculos de emprego
+> * Visualização clara da distribuição dos setores;
+> * Gráficos que exibem a predominância de atividades produtivas e vínculos de emprego;
 > * Identificação de oportunidades profissionais para engenheiros de produção.
 
 ---
