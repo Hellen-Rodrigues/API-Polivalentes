@@ -31,8 +31,15 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+* **Persona 1 - Gestor Público (Prefeitura):**
+   - Descrição: Profissional responsável pelo planejamento e pela tomada de decisões estratégicas no âmbito municipal.
+   - Necessidades: Acesso rápido a dados confiáveis, visualizações claras dos indicadores e informações consolidadas que apoiem a formulação de políticas públicas.
+   - Dores atendidas: Dificuldade em interpretar grandes volumes de dados dispersos, falta de centralização das informações e limitação na visualização clara para embasar decisões.
+     
+* **Persona 2 - Analista de Dados:**
+   - Descrição: Profissional responsável pela coleta, organização e análise de dados para geração de insights.
+   - Necessidades: Dados estruturados, ferramentas de visualização eficientes e facilidade na exploração das informações.
+   - Dores atendidas: Tempo elevado na organização e tratamento de dados, dificuldade em consolidar diferentes fontes e limitação na apresentação clara dos resultados.   
 
 ---
 
