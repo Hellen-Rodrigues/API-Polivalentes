@@ -17,16 +17,19 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
+> Nesta etapa, a solução consiste em construir o dashboard, obtendo gráficos dinâmicos, um mapa interativo e telas que contenham as informações correspondentes às perguntas do cliente (1 á 4 e 7). 
 
 ## ⚙️ Funcionalidades principais
-> Funcionalidades principais incluídas  
+> Integração dos dados coletados e tratados na primeira sprint (RAIS/IBGE);
+> Gráficos interativos sobre setores e serviços, vínculos CLT com distribuição por gênero e faixa etária, e oportunidades para Engenheiros de Produção em São José dos Campos;
+> Mapa interativo para visualização de distribuição geográfica.
 
 ## ⚠️ Limitações
-> Limitações conhecidas  
+> Dados, localização, gráficos e pesquisa de regiões próximas de São José dos Campos ficarão para a próxima etapa;
+> Início da pesquisa sobre os Clusters e relações com o desenvolvimento tecnológico, para responder duas questões qualitativas do cliente (5 e 6).
 
 ## 🎯 Escopo reduzido
-> Escopo reduzido (somente o essencial para validar a ideia)  
+> O foco do MVP é a apresentação de um painel funcional, com filtros e representação dos dados necessários para validar a utilidade do dashboard.
 
 ---
 
@@ -58,14 +61,18 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     | Desenvolvimento de um dashboard funcional em Power BI   | Concluído |
+| 02     | Visualização clara dos principais setores e serviços de São José dos Campos | Concluído |
+| 02     | Mapeamento geográfico do ecossistema industrial de São José dos Campos | Concluído |
+| 02     | Apresentação de vínculos por gênero e idade | Concluído |
+| 02     | Possibilidade de análise de oportunidades profissionais (Eng. de Produção) | Concluído |
+
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
+- O MVP deve permitir que o usuário visualize e compare indicadores serviços industriais, vínculos e ensejos. 
+- O sistema deve registrar  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
