@@ -72,7 +72,7 @@
 
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário visualize e compare indicadores serviços industriais, vínculos e ensejos. 
-- O sistema deve registrar  
+- O sistema deve registrar 
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
@@ -92,6 +92,6 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Protótipo: [Clique aqui para visualizar o documento](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Prot%C3%B3tipo%20do%20Dashboard%20-%20API.pdf)
+- Protótipo: [Clique aqui para visualizar o documento](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Prot%C3%B3tipo%20do%20Dashboard%20-%20API%20(2).pdf)
 - Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/8vGfbujpZCM)
 - Slides da apresentação 01: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/1%C2%B0%20API%20-%201%C2%B0%20Sprint_20260427_194459_0000.pdf)
