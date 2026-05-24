@@ -7,7 +7,7 @@
 > A ausência de uma ferramenta visual e interativa que permite compreender a distribuição geográfica e os indicadores econômicos dos setores industriais e de serviços, dificultando análises estratégicas.
 
 ## 💡 Hipótese a ser validada
-> A visualização interativa do dashboard em Microsoft Power BI, com favorecimento à análise comparativa dos setores em processos decisórios.   
+> A visualização interativa do dashboard em Microsoft Power BI, com favorecimento à análise comparativa dos setores, contribuindo para processos decisórios mais assertivos.   
 
 ## 🚀 Valor entregue ao usuário
 > * Visualização clara da distribuição dos setores;
@@ -72,15 +72,19 @@
 
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário visualize e compare indicadores serviços industriais, vínculos e ensejos. 
-- O sistema deve registrar 
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O sistema deve registrar os principais setores e serviços de São José dos Campos, distribuição geográfica, macroprocessos e indicadores de contratações, permitindo uma análise estruturada.
+- Métricas coletadas:
+  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+  - Número de perguntas do cliente respondidas por meio da interface gráfica interativa;
+  - Tempo médio para interpretação das informações no dashboard (facilidade de análise);
+  - Quantidade de comparações entre setores possibilitadas pelos gráficos;
+  - Presença de elementos interativos (filtros, segmentações e mapa);
+  - Quantidade de feedbacks recebidos durante a validação e números de ajustes realizados após a validação;
+  - Percentual de funcionalidades que auxiliam diretamente na tomada de decisão.
 
 ---
 
