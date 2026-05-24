@@ -92,6 +92,7 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Protótipo: [Clique aqui para visualizar o documento](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Prot%C3%B3tipo%20do%20Dashboard%20-%20API%20(2).pdf)
+- Protótipo: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Prot%C3%B3tipo%20do%20Dashboard%20-%20API%20(2).pdf)
+- 5W2H: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/5W2H%20-%20Polivalentes.png)
 - Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/8vGfbujpZCM)
 - Slides da apresentação 01: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/1%C2%B0%20API%20-%201%C2%B0%20Sprint_20260427_194459_0000.pdf)
