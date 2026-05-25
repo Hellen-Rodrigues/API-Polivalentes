@@ -74,11 +74,17 @@
 - O MVP deve permitir que o usuário visualize e compare indicadores serviços industriais, vínculos e ensejos. 
 - O sistema deve registrar os principais setores e serviços de São José dos Campos, distribuição geográfica, macroprocessos e indicadores de contratações, permitindo uma análise estruturada.
 - Métricas coletadas:
+   - Foram desenvolvidas 3 telas no dashboard;
+   - Foram construídos 8 gráficos;
+   - Foram respondidas as perguntas 1-4 e 7 propostas pelo cliente;
+   - Foram coletados aproximadamente 12 feedbacks durante o processo de validação;
+   - Foi entregue a maior parte das funcionalidades planejadas para a sprint 2.
   
 
 ---
 
 ## 📈 Métricas de Validação
+  - Número de usuários que testaram o MVP - 7 
   - Número de perguntas do cliente respondidas por meio da interface gráfica interativa;
   - Tempo médio para interpretação das informações no dashboard (facilidade de análise);
   - Quantidade de comparações entre setores possibilitadas pelos gráficos;
