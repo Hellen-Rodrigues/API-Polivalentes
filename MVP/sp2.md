@@ -104,5 +104,6 @@
 ## 📂 Anexos / Evidências
 - Protótipo: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Prot%C3%B3tipo%20do%20Dashboard%20-%20API%20(2).pdf)
 - 5W2H: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/5W2H%20-%20Polivalentes.png)
+- Início da pesquisa sobre os Clusters e relação com desenvolvimento tecnológoco: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Rela%C3%A7%C3%A3o%20entre%20os%20Clusters%20Tecnol%C3%B3gicos%20e%20o%20Desenvolvimento%20Econ%C3%B4mico%20Regional%20em%20S%C3%A3o%20Jos%C3%A9%20dos%20Campos.pdf) 
 - Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/8vGfbujpZCM)
 - Slides da apresentação 02: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/1%C2%B0%20API%20-%202%C2%B0%20Sprint.pdf)
