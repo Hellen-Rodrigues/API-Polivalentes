@@ -91,6 +91,6 @@ Objetivos específicos:
 |--------|----------|--------|-----------|
 | 00 | 30/03/2026 | Concluído | [MVP](https://youtu.be/Xu6sz3J2yP8) |
 | 01 | 27/04/2026 | Concluído | [MVP](MVP/sp1.md) |
-| 02 | 25/05/2026 | Em andamento | [MVP](MVP/sp2.md) |
-| 03 | 08/06/2026 | a fazer | [MVP](MVP/sp3.md) |
-| Feira de Soluções | 18/06/2026 | a fazer | [MVP](#) |
+| 02 | 25/05/2026 | Concluído | [MVP](MVP/sp2.md) |
+| 03 | 08/06/2026 | Em andamento | [MVP](MVP/sp3.md) |
+| Feira de Soluções | 25/06/2026 | a fazer | [MVP](#) |
