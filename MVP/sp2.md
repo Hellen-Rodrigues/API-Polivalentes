@@ -95,9 +95,9 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback - desenvolver gráficos de localização das empresas que contratam Engenheiros de Produção  
-- Ajustes de usabilidade - navegação/ajustes visuais  
-- Expansão de funcionalidades para próximo incremento - criar dinâmicos de regiões próximas a São José dos Campos, expandir pesquisa sobre os Clusters e relações com o desenvolvimento tecnológico.
+- Melhorias planejadas após feedback - desenvolver gráficos de localização das empresas que contratam Engenheiros de Produção e outras engenharias 
+- Ajustes de usabilidade - navegação/ajustes visuais (cores e posicionamento de KPI'S)
+- Expansão de funcionalidades para próximo incremento - correção de falha encontrada, criar dinâmicos de regiões próximas a São José dos Campos, expandir pesquisa sobre os Clusters e relações com o desenvolvimento tecnológico.
 
 ---
 
