@@ -20,10 +20,10 @@ Este projeto tem como objetivo realizar o mapeamento e a análise dos principais
 # Equipe
 | Função | Nome | LinkedIn & GitHub |
 | :---: | :--- | :---: |
-| Scrum Master | Lucas Dos Santos Batista De Oliveira | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbatistadeoliveira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas4bsoliveira-creator) |
+| Scrum Master |  Diego Barbosa da Silva | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-barbosa-silva/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego-silva807) |
 | Product Owner | Hellen Rodrigues Eugênio | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellen-rodrigues565/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hellen-Rodrigues) |
-| Team Member | Diego Barbosa da Silva | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-barbosa-silva/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego-silva807) |
 | Team Member | Gabriel Cardoso da Silva | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardoso-da-silva-583b69397/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcardososilva2728) |
+| Team Member | Lucas Dos Santos Batista De Oliveira | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbatistadeoliveira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas4bsoliveira-creator) |
 | Team Member | Maria Eduarda Martini Pinto | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-martini-2748713b7/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dudamartini01) |
 | Team Member | Valéria Cristine de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/val%C3%A9ria-cristine-d-458937138/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeriacristinee) |
 | Team Member | Yan Alcalde Neves | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-neves-862a5234a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yanneves2007) |
@@ -46,6 +46,7 @@ Objetivos específicos:
 * GitHub
 * Microsoft Excel
 * Power BI
+* Google Documentos
 
 # Product Backlog
 ### 🟡 User Stories Antigas (Versão 1) 
@@ -92,5 +93,5 @@ Objetivos específicos:
 | 00 | 30/03/2026 | Concluído | [MVP](https://youtu.be/Xu6sz3J2yP8) |
 | 01 | 27/04/2026 | Concluído | [MVP](MVP/sp1.md) |
 | 02 | 25/05/2026 | Concluído | [MVP](MVP/sp2.md) |
-| 03 | 08/06/2026 | Em andamento | [MVP](MVP/sp3.md) |
+| 03 | 15/06/2026 | Em andamento | [MVP](MVP/sp3.md) |
 | Feira de Soluções | 25/06/2026 | a fazer | [MVP](#) |
