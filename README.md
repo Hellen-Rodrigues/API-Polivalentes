@@ -84,8 +84,9 @@ Objetivos específicos:
 | 4 | Média | Como consultor de processos, quero mapear os macroprocessos das maiores empresas da região para propor modelos de eficiência e produtividade aplicáveis ao mercado local. | 3 | 2 |
 | 5 | Baixa | Como estudante de Engenharia de Produção, quero identificar as competências e áreas de atuação mais demandadas pelas empresas locais para alinhar meu desenvolvimento profissional às necessidades do mercado regional. | 5 | 2 |
 | 6 | Alta | Como analista, quero ver as distribuições de vínculos CLT, nos principais setores industriais e de serviços, de acordo com critérios (faixa etária e gênero), para compreender a representatividade de pessoas entre setores. | 13 | 2 |
-| 7 | Alta | Como diretor de inovação, quero analisar a correlação entre os setores industriais instalados e o nível de desenvolvimento tecnológico regional para fortalecer o ecossistema de ciência e tecnologia. | 8 | 3 |
-| 8 | Baixa | Como equipe do projeto, quero realizar uma revisão geral de todas as entregas e funcionalidades desenvolvidas e adicionar melhorias, para garantir que tudo esteja conforme os requisitos do parceiro e sem inconsistências antes da entrega final. | 5 | 3 |
+| 7 | Alta | Como analista de mercado, quero e identificar e visualizar outras cidades da região com forte papel industrial além de São José dos Campos, para compreender a rede produtiva regional. | 5 | 3 |
+| 8 | Alta | Como diretor de inovação, quero analisar a correlação entre os setores industriais instalados e o nível de desenvolvimento tecnológico regional para fortalecer o ecossistema de ciência e tecnologia. | 8 | 3 |
+| 9 | Baixa | Como equipe do projeto, quero realizar uma revisão geral de todas as entregas e funcionalidades desenvolvidas e adicionar melhorias, para garantir que tudo esteja conforme os requisitos do parceiro e sem inconsistências antes da entrega final. | 5 | 3 |
 
 # Registro das Sprints
 | Sprint | Previsão | Status | Histórico |
