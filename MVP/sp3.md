@@ -67,6 +67,5 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Kanban: [Clique aqui para visualizar](https://canva.link/djwv7fpq2jy9f9v)
+
