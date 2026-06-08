@@ -75,7 +75,7 @@ O foco do MVP é a preparação dos dados, disponibilizar informações confiáv
 ---
 
 ## 🚀 Próximos Passos
-- Reestruturação do backlog (Versão 2)  
+- Reestruturação/refinamento do backlog, pois algumas user stories foram consideradas redundantes ou desnecessárias  
 - Desenvolver as telas de dashboard interativo no Power BI  
 - Atualizações da planilha (base de dados)  
 
