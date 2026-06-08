@@ -46,10 +46,10 @@ O foco do MVP é a preparação dos dados, disponibilizar informações confiáv
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista, quero coletar dados públicos (RAIS, IBGE) para construir a base do projeto. | Alta | 8 pontos |
-| US2 | Como analista, quero filtrar dados de São José dos Campos para organizá-los. | Alta   | 5 pontos  |
-| US3 | Como analista, quero organizar os dados no Google Colab para tratá-los. | Alta | 5 pontos  |
-| US4 | Como analista, quero tratar os dados utilizando Python no Google Colab para classificá-los. | Alta | 8 pontos |
+| US1 | Como analista, quero consolidar e filtrar dados de fontes públicas (RAIS, IBGE, etc.) específicas de São José dos Campos, para criar uma base de dados confiável e direcionada ao mapeamento do ecossistema regional. | Alta | 34 pontos |
+| US2 | Como analista, quero realizar o tratamento, padronização e estruturação analítica dos dados utilizando Python no Google Colab, para garantir a consistência das informações e facilitar a criação de visualizações no Power BI. | Alta   | 21 pontos  |
+| US3 | Como analista, quero prototipar as telas do dashboard para garantir que a visualização dos dados seja intuitiva e atenda às necessidades de análise do ecossistema industrial. | Alta | 8 pontos  |
+
 
 ---
 
