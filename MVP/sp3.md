@@ -68,4 +68,5 @@
 
 ## 📂 Anexos / Evidências
 - Kanban: [Clique aqui para visualizar](https://canva.link/djwv7fpq2jy9f9v)
+- Pesquisa sobre desenvolvimento industrial de outras cidades da região: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Principais%20Economias%20do%20Vale%20do%20Para%C3%ADba.pdf)
 
