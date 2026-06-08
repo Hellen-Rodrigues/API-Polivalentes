@@ -49,44 +49,21 @@ Objetivos específicos:
 * Google Documentos
 
 # Product Backlog
-### 🟡 User Stories Antigas (Versão 1) 
-> Esas user stories correspondem à versão inicial do backlog, antes das atualizações realizadas após alinhamentos e feedbacks.
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
-| 1 | Alta | Como analista, quero consolidar dados públicos (RAIS, IBGE etc.) para criar uma base confiável do projeto | 5 | 1 |
-| 2 | Alta | Como analista, quero filtrar os dados de São José dos Campos para garantir análises específicas da região | 5 | 1 |
-| 3 | Alta | Como analista, quero dados limpos e padronizados para garantir consistência nas análises (Google Colab) | 5 | 1 |
-| 4 | Alta | Como analista, quero organizar os dados em estrutura analítica para facilitar exploração (Google Colab) | 8 | 1 |
-| 5 | Alta | Como analista, quero classificar empresas por setor econômico para identificar segmentos relevantes (CNAE) | 5 | 1 |
-| 6 | Alta | Como analista, quero identificar padrões e tendências nos dados para gerar insights | 5 | 1
-| 7 | Média | Como analista, quero analisar a distribuição geográfica das empresas para entender concentração regional | 8 | 2 |
-| 8 | Alta | Como tomador de decisão, quero visualizar os principais setores econômicos para identificar os segmentos predominantes da região | 5 | 2 |
-| 9 | Alta | Como tomador de decisão, quero dashboards interativos para explorar os dados de forma dinâmica e intuitiva (Power BI) | 8 | 2 |
-| 10 | Alta | Como tomador de decisão, quero visualizar a distribuição geográfica das empresas para entender a dinâmica regional | 8 | 2 |
-| 11 | Média | Como tomador de decisão, quero comparar setores econômicos para identificar oportunidades de investimento | 5 | 2 |
-| 12 | Média | Como equipe, queremos documentar o projeto para garantir rastreabilidade e entendimento (GITHUB) | 3 | 1,3 |
-| 13 | Média | Como equipe, queremos organizar dados e códigos para facilitar manutenção | 3 | 3 |
-| 14 | Média | Como equipe, queremos documentar a metodologia para garantir transparência | 5 | 1,3 |
-| 15 | Média | Como equipe, queremos revisar e validar todos os outputs do projeto para garantir qualidade, consistência e prontidão para entrega final | 5 | 3 |
-| 16 | Baixa | Como stakeholder, quero dashboards finais para apoiar decisões estratégicas | 8 | 3 |
-| 17 | Baixa | Como stakeholder, quero um relatório técnico para entender a análise realizada | 8 | 3 |
-| 18 | Baixa | Como equipe, queremos apresentar o projeto de forma clara para demonstrar os resultados (Feira de soluções) | 5 | 3 |
-
-### 🟢 User Stories Atualizadas (Versão 2)
-> Backlog atualizado com melhorias e ajustes após revisões da equipe e alinhamentos do projeto.
-
-| Rank | Prioridade | User Story | Estimativa | Sprint |
-|------|------------|------------|------------|--------|
-| 1 | Alta | Como analista, quero ver os principais setores industriais e de serviços presentes na região de São José dos Campos para identificar a força econômica local e atrair novos investimentos. | 8 | 2 |
-| 2 | Alta | Como gestor público, quero um mapa interativo mostrando a localização das empresas por bairro e município para planejar melhorias na infraestrutura urbana e logística de transporte. | 13 | 2 |
-| 3 | Média | Como pesquisador de mercado, quero classificar as empresas por tipo de atividade (manufatura, tecnologia, logística) para compreender a especialização produtiva de cada polo regional. | 8 | 2 |
-| 4 | Média | Como consultor de processos, quero mapear os macroprocessos das maiores empresas da região para propor modelos de eficiência e produtividade aplicáveis ao mercado local. | 3 | 2 |
-| 5 | Baixa | Como estudante de Engenharia de Produção, quero identificar as competências e áreas de atuação mais demandadas pelas empresas locais para alinhar meu desenvolvimento profissional às necessidades do mercado regional. | 5 | 2 |
-| 6 | Alta | Como analista, quero ver as distribuições de vínculos CLT, nos principais setores industriais e de serviços, de acordo com critérios (faixa etária e gênero), para compreender a representatividade de pessoas entre setores. | 13 | 2 |
-| 7 | Alta | Como analista de mercado, quero e identificar e visualizar outras cidades da região com forte papel industrial além de São José dos Campos, para compreender a rede produtiva regional. | 5 | 3 |
-| 8 | Alta | Como diretor de inovação, quero analisar a correlação entre os setores industriais instalados e o nível de desenvolvimento tecnológico regional para fortalecer o ecossistema de ciência e tecnologia. | 8 | 3 |
-| 9 | Baixa | Como equipe do projeto, quero realizar uma revisão geral de todas as entregas e funcionalidades desenvolvidas e adicionar melhorias, para garantir que tudo esteja conforme os requisitos do parceiro e sem inconsistências antes da entrega final. | 5 | 3 |
+| 1 | Alta | Como analista, quero consolidar e filtrar dados de fontes públicas (RAIS, IBGE, etc.) específicas de São José dos Campos, para criar uma base de dados confiável e direcionada ao mapeamento do ecossistema regional. | 34 | 1 |
+| 2 | Alta | Como analista, quero realizar o tratamento, padronização e estruturação analítica dos dados utilizando Python no Google Colab, para garantir a consistência das informações e facilitar a criação de visualizações no Power BI. | 21 | 1 |
+| 3 | Alta | Como analista, quero prototipar as telas do dashboard para garantir que a visualização dos dados seja intuitiva e atenda às necessidades de análise do ecossistema industrial. | 8 | 1 |
+| 4 | Alta | Como analista, quero ver os principais setores industriais e de serviços presentes na região de São José dos Campos para identificar a força econômica local e atrair novos investimentos. | 8 | 2 |
+| 5 | Alta | Como gestor público, quero um mapa interativo mostrando a localização das empresas por bairro e município para planejar melhorias na infraestrutura urbana e logística de transporte. | 13 | 2 |
+| 6 | Média | Como pesquisador de mercado, quero classificar as empresas por tipo de atividade (manufatura, tecnologia, logística) para compreender a especialização produtiva de cada polo regional. | 8 | 2 |
+| 7 | Média | Como consultor de processos, quero mapear os macroprocessos das maiores empresas da região para propor modelos de eficiência e produtividade aplicáveis ao mercado local. | 3 | 2 |
+| 8 | Baixa | Como estudante de Engenharia de Produção, quero identificar as competências e áreas de atuação mais demandadas pelas empresas locais para alinhar meu desenvolvimento profissional às necessidades do mercado regional. | 5 | 2 |
+| 9 | Alta | Como analista, quero ver as distribuições de vínculos CLT, nos principais setores industriais e de serviços, de acordo com critérios (faixa etária e gênero), para compreender a representatividade de pessoas entre setores. | 13 | 2 |
+| 10 | Alta | Como analista de mercado, quero e identificar e visualizar outras cidades da região com forte papel industrial além de São José dos Campos, para compreender a rede produtiva regional. | 5 | 3 |
+| 11 | Alta | Como diretor de inovação, quero analisar a correlação entre os setores industriais instalados e o nível de desenvolvimento tecnológico regional para fortalecer o ecossistema de ciência e tecnologia. | 8 | 3 |
+| 12 | Baixa | Como equipe do projeto, quero realizar uma revisão geral de todas as entregas e funcionalidades desenvolvidas e adicionar melhorias, para garantir que tudo esteja conforme os requisitos do parceiro e sem inconsistências antes da entrega final. | 5 | 3 |
 
 # Registro das Sprints
 | Sprint | Previsão | Status | Histórico |
