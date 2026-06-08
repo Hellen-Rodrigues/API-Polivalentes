@@ -49,12 +49,12 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista, quero ver os principais setores industriais e de serviços presentes na região de São José dos Campos para identificar a força econômica local e atrair novos investimentos.        | Alta       | 8 pontos   |
-| US2 | Como gestor público, quero um mapa interativo mostrando a localização das empresas por bairro e município para planejar melhorias na infraestrutura urbana e logística de transporte.        | Alta      | 13 pontos   |
-| US3 | Como pesquisador de mercado, quero classificar as empresas por tipo de atividade (manufatura, tecnologia, logística) para compreender a especialização produtiva de cada polo regional. | Média | 8 pontos |
-| US4 | Como consultor de processos, quero mapear os macroprocessos das maiores empresas da região para propor modelos de eficiência e produtividade aplicáveis ao mercado local. | Média | 3 pontos |
-| US5 | Como estudante de Engenharia de Produção, quero identificar as competências e áreas de atuação mais demandadas pelas empresas locais para alinhar meu desenvolvimento profissional às necessidades do mercado regional. | Baixa | 5 pontos |
-| US6 | Como analista, quero ver as distribuições de vínculos CLT, nos principais setores industriais e de serviços, de acordo com critérios (faixa etária e gênero), para compreender a representatividade de pessoas entre setores. | Alta | 13 pontos |
+| US4 | Como analista, quero ver os principais setores industriais e de serviços presentes na região de São José dos Campos para identificar a força econômica local e atrair novos investimentos.        | Alta       | 8 pontos   |
+| US5 | Como gestor público, quero um mapa interativo mostrando a localização das empresas por bairro e município para planejar melhorias na infraestrutura urbana e logística de transporte.        | Alta      | 13 pontos   |
+| US6 | Como pesquisador de mercado, quero classificar as empresas por tipo de atividade (manufatura, tecnologia, logística) para compreender a especialização produtiva de cada polo regional. | Média | 8 pontos |
+| US7 | Como consultor de processos, quero mapear os macroprocessos das maiores empresas da região para propor modelos de eficiência e produtividade aplicáveis ao mercado local. | Média | 3 pontos |
+| US8 | Como estudante de Engenharia de Produção, quero identificar as competências e áreas de atuação mais demandadas pelas empresas locais para alinhar meu desenvolvimento profissional às necessidades do mercado regional. | Baixa | 5 pontos |
+| US9 | Como analista, quero ver as distribuições de vínculos CLT, nos principais setores industriais e de serviços, de acordo com critérios (faixa etária e gênero), para compreender a representatividade de pessoas entre setores. | Alta | 13 pontos |
 
 ---
 
