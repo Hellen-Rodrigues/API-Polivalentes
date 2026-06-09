@@ -42,7 +42,7 @@ Objetivos específicos:
 ## Tecnologias Utilizadas
 * Canva
 * Trello
-* Python
+* Python (Google Colab)
 * GitHub
 * Microsoft Excel
 * Power BI
