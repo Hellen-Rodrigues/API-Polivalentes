@@ -32,9 +32,9 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-
+| US10 | Como analista de mercado, quero e identificar e visualizar outras cidades da região com forte papel industrial além de São José dos Campos, para compreender a rede produtiva regional. | Alta  | 5 pontos   |
+| US11 | Como diretor de inovação, quero analisar a correlação entre os setores industriais instalados e o nível de desenvolvimento tecnológico regional para fortalecer o ecossistema de ciência e tecnologia. | Alta | 8 pontos   |
+| US12 | Como equipe do projeto, quero realizar uma revisão geral de todas as entregas e funcionalidades desenvolvidas e adicionar melhorias, para garantir que tudo esteja conforme os requisitos do parceiro e sem inconsistências antes da entrega final. | Baixa  | 3 pontos   |
 ---
 
 ## 📅 Sprint(s) Relacionadas
@@ -59,14 +59,12 @@
 
 ---
 
-## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
+## 🚀 Próximos Passos  
+- Ajustes e preparação para a Feira de Soluções   
+  
 ---
 
 ## 📂 Anexos / Evidências
 - Kanban: [Clique aqui para visualizar](https://canva.link/djwv7fpq2jy9f9v)
-- Pesquisa sobre desenvolvimento industrial de outras cidades da região: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Principais%20Economias%20do%20Vale%20do%20Para%C3%ADba.pdf)
+- Pesquisa sobre desenvolvimento econômico e industrial de cidades da região do Vale do Paraíba: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Principais%20Economias%20do%20Vale%20do%20Para%C3%ADba.pdf)
 
