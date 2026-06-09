@@ -1,10 +1,16 @@
 # 📌 MVP - Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> Ampliar a análise para outras regiões do Vale do Paraíba com relevância industrial e econômica, incorporar dados de diferentes áreas da Engenharia, elaborar gráficos sobre a distribuição geográfica das empresas contratantes de engenheiros, realizar aprimoramentos visuais na plataforma e aprofundar o estudo dos clusters industriais e sua relação com o desenvolvimento tecnológico.
+
+## 🧩 Problema que resolve 
+Dificuldade na obtenção e visualização de dados sobre empregabilidade, empresas contratantes, polos industriais e demandas do setor de Engenharia no Vale do Paraíba.
+
+## 💡 Hipótese a ser validada
+Um dashboard em Power BI com informações sobre empregabilidade, distribuição geográfica das oportunidades e concentração industrial auxilia estudantes e profissionais na compreensão do mercado de trabalho da Engenharia no Vale do Paraíba.
+
+## 🚀 Valor entregue ao usuário
+Acesso rápido, centralizado e visual à informações relevantes para o planejamento de carreira e no entendimento do cenário profissional da Engenharia no Vale do Paraíba.
 
 ---
 
