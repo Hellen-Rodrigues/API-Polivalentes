@@ -46,8 +46,9 @@ Acesso rápido, centralizado e visual à informações relevantes para o planeja
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 03   | Adição de dados sobre outras áreas da Engenharia na tela 2 | Concluído |
+| 03   | Desenvolvimento de um gráfico de localização geográfica das empresas que contratam Engenheiros | Concluído |
+| 03   | Expansão de dados sobre outras cidades próximas de São José dos Campos | Concluído |
 
 ---
 
