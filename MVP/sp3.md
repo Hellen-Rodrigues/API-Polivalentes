@@ -92,7 +92,7 @@ Valida o uso do dashboard como ferramenta de apoio à compreensão do mercado de
 - 5W2H: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/5W2H-3SPRINT.png)
 - Kanban: [Clique aqui para visualizar](https://canva.link/djwv7fpq2jy9f9v)
 - Pesquisa sobre desenvolvimento econômico e industrial de cidades da região do Vale do Paraíba: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Principais%20Economias%20do%20Vale%20do%20Para%C3%ADba.pdf)
-- Aprofundamento e conclusão da pesquisa de Relação entre os Clusters Tecnológicos e o Desenvolvimento Econômico Regional em SJC: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Aprofundamento_Clusters%20Tecnol%C3%B3gicos_Pesquisa.pdf)
+- Aprofundamento e conclusão da pesquisa sobre os Clusters Tecnológicos em SJC: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Aprofundamento_Clusters%20Tecnol%C3%B3gicos_Pesquisa.pdf)
 - Slides da apresentação 03: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/1%C2%B0%20API%20-%203%C2%B0%20Sprint.pdf)
 
 ## 📊 Planilhas e Códigos criados(as):
@@ -102,8 +102,11 @@ Valida o uso do dashboard como ferramenta de apoio à compreensão do mercado de
 - Planilha para o mapa dos engenheiros: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/1JQml4IYKEN5zvgGeTchROIZJNMJjN6Ih/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
 
 - Códigos:
+  
   1.Python   [Clique aqui para visualizar](https://colab.research.google.com/drive/1uhx89DLB1-_kmunaJJ5eI5axD66cnTPf?usp=sharing)
+  
   2.Python   [Clique aqui para visualizar](https://colab.research.google.com/drive/126ZKnN0D0duvAXFLojB2xqdNfTs2t4OG?usp=sharing)
+  
   3.Python   [Clique aqui para visualizar](https://colab.research.google.com/drive/1Qb8UAywKThSd6LR-R_dZFSuQbwhAeGJr?usp=sharing)
 
 
