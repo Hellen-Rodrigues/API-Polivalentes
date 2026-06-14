@@ -15,7 +15,8 @@ Acesso rápido, centralizado e visual à informações relevantes para o planeja
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
+> Esta etapa final do MVP consolida o protótipo do Dashboard API Polivalentes, incorporando feedback crucial do cliente da Sprint 2 e implementando melhorias significativas na Sprint 3. O foco é apresentar uma versão funcional e representativa das capacidades do dashboard para validação da ideia central.
+ 
 - Funcionalidades principais incluídas  
 - Limitações conhecidas  
 - Escopo reduzido (somente o essencial para validar a ideia)  
