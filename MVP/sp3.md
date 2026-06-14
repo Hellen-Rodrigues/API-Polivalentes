@@ -66,7 +66,7 @@ Valida o uso do dashboard como ferramenta de apoio à compreensão do mercado de
 - O MVP deve permitir que o usuário visualize e compare dados de empregabilidade em Engenharia por setor e por diferentes cidades do Vale do Paraíba.
 - O sistema deve apresentar a distribuição geográfica das empresas contratantes, permitindo a análise da concentração industrial e sua relação com o desenvolvimento tecnológico regional.
 - Métricas coletadas:
-  - Expansão de dados do dashboard com inclusão de 5 novas cidades e outras áreas da Engenharia;
+  - Expansão de dados do dashboard com inclusão de 4 novas cidades e outras áreas da Engenharia;
   - Implementação de mais 1 gráfico geográfico interativo, totalizando 9 gráficos;
   - Aplicação de melhorias visuais com base nos feedbacks da Sprint 2;
   - Percentual de funcionalidades planejadas implementadas no MVP final: 100%, consolidando a entrega das funcionalidades propostas.
