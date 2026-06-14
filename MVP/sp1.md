@@ -4,13 +4,13 @@
 > O MVP tem como propósito reunir e estruturar dados oficiais sobre os setores econômicos de São José dos Campos e validar a versão inicial do dashboard em Power BI
 
 ## 🧩 Problema que resolve
- Falta de uma ferramenta estruturada, interativa e visualmente organizada para a análise dos dados relacionados ao ecossistema industrial e de serviços da região de São José dos Campos.
+> Falta de uma ferramenta estruturada, interativa e visualmente organizada para a análise dos dados relacionados ao ecossistema industrial e de serviços da região de São José dos Campos.
 
 ## 💡 Hipótese a ser validada
-Um protótipo inicial do dashboard em Microsoft Power BI, aliado à organização e disponibilização dos dados, facilita a compreensão dos indicadores e apoia a tomada de decisões estratégicas, permitindo uma análise clara e objetiva das informações.
+> Um protótipo inicial do dashboard em Microsoft Power BI, aliado à organização e disponibilização dos dados, facilita a compreensão dos indicadores e apoia a tomada de decisões estratégicas, permitindo uma análise clara e objetiva das informações.
 
 ## 🚀 Valor entregue ao usuário
-Acesso claro e estruturado às informações locais, servindo como fundamento para etapas futuras do projeto.
+> Acesso claro e estruturado às informações locais, servindo como fundamento para etapas futuras do projeto.
 
 ---
 
@@ -18,15 +18,15 @@ Acesso claro e estruturado às informações locais, servindo como fundamento pa
 > Nesta etapa, a solução consiste em reunir e organizar dados oficiais sobre os setores econômicos de São José dos Campos, entregando uma base estruturada para análise inicial. 
 
 ## ⚙️Funcionalidades principais
-* Coleta e tratamento dos dados da RAIS e do IBGE.
-* Desenvolvimento de um protótipo de dashboard, com visualização planejada e organizada dos dados para facilitar a análise das informações.
+> * Coleta e tratamento dos dados da RAIS e do IBGE.
+> * Desenvolvimento de um protótipo de dashboard, com visualização planejada e organizada dos dados para facilitar a análise das informações.
 
 ## ⚠️ Limitações 
-* Ausência de recursos gráficos interativos, sem filtros aperfeiçoados.
-* A base de dados está limitada ao período de 2024 e às fontes integradas na primeira sprint (RAIS e IBGE).
+> * Ausência de recursos gráficos interativos, sem filtros aperfeiçoados.
+> * A base de dados está limitada ao período de 2024 e às fontes integradas na primeira sprint (RAIS e IBGE).
 
 ## 🎯 Escopo reduzido
-O foco do MVP é a preparação dos dados, disponibilizar informações confiáveis e organizadas para validar a ideia.
+> O foco do MVP é a preparação dos dados, disponibilizar informações confiáveis e organizadas para validar a ideia.
 
 ---
 
