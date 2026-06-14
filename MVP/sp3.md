@@ -19,7 +19,7 @@
  
 ## ⚙️ Funcionalidades principais
 > - Expansão da análise geográfica para incluir São José dos Campos e quatro cidades adjacentes, oferecendo uma visão regional mais abrangente do mercado.
-> - Ampliação para abranger dados de diversas áreas da engenharia (não apenas de produção) e integração de um mapa geográfico interativo, identificando setores contratantes de engenheiros.
+> - Ampliação para abranger dados de diversas áreas da engenharia (não apenas de produção) e integração de mais um mapa geográfico, identificando setores contratantes de engenheiros.
 > - Ajustes visuais 
 
 ## ⚠️ Limitações
