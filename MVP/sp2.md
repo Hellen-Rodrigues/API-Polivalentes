@@ -107,3 +107,8 @@
 - Início da pesquisa sobre os Clusters e relação com desenvolvimento tecnológoco: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Rela%C3%A7%C3%A3o%20entre%20os%20Clusters%20Tecnol%C3%B3gicos%20e%20o%20Desenvolvimento%20Econ%C3%B4mico%20Regional%20em%20S%C3%A3o%20Jos%C3%A9%20dos%20Campos.pdf) 
 - Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/8vGfbujpZCM)
 - Slides da apresentação 02: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/1%C2%B0%20API%20-%202%C2%B0%20Sprint.pdf)
+
+## 📊 Planilhas e Códigos criados(as):
+ - Planilha de Engenheiros de Produção:[Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/1_eNV8mAWrR5-aA-aKJBvd4UcrBxegITN/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
+ - Código 1 em Python: [Clique aqui para visualizar](https://colab.research.google.com/drive/12Ll1vtrVIRo_g-pDQi4cmNh84J8zqkl7?usp=sharing)
+ - Tabela utilizada para criar o Dashboard em Power BI: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/1gLwFOCEngB9VWMZNnXI9YaEPjaFVWb6l/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
