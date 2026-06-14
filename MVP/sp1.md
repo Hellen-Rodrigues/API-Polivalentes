@@ -46,7 +46,7 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista, quero consolidar e filtrar dados de fontes públicas (RAIS, IBGE, etc.) específicas de São José dos Campos, para criar uma base de dados confiável e direcionada ao mapeamento do ecossistema regional. | Alta | 34 pontos |
+| US1 | Como analista, quero consolidar e filtrar dados de fontes públicas (RAIS, IBGE.) específicas de São José dos Campos, para criar uma base de dados confiável e direcionada ao mapeamento do ecossistema regional. | Alta | 34 pontos |
 | US2 | Como analista, quero realizar o tratamento, padronização e estruturação analítica dos dados utilizando Python no Google Colab, para garantir a consistência das informações e facilitar a criação de visualizações no Power BI. | Alta   | 21 pontos  |
 | US3 | Como analista, quero prototipar as telas do dashboard para garantir que a visualização dos dados seja intuitiva e atenda às necessidades de análise do ecossistema industrial. | Alta | 8 pontos  |
 
