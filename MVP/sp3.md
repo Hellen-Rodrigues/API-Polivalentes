@@ -89,6 +89,7 @@ Valida o uso do dashboard como ferramenta de apoio à compreensão do mercado de
 ---
 
 ## 📂 Anexos / Evidências
+- 5W2H: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/5W2H-3SPRINT.png)
 - Kanban: [Clique aqui para visualizar](https://canva.link/djwv7fpq2jy9f9v)
 - Pesquisa sobre desenvolvimento econômico e industrial de cidades da região do Vale do Paraíba: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Principais%20Economias%20do%20Vale%20do%20Para%C3%ADba.pdf)
 - Aprofundamento e conclusão da pesquisa de Relação entre os Clusters Tecnológicos e o Desenvolvimento Econômico Regional em SJC: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Aprofundamento_Clusters%20Tecnol%C3%B3gicos_Pesquisa.pdf)
