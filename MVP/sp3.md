@@ -94,4 +94,16 @@ Valida o uso do dashboard como ferramenta de apoio à compreensão do mercado de
 - Aprofundamento e conclusão da pesquisa de Relação entre os Clusters Tecnológicos e o Desenvolvimento Econômico Regional em SJC: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Aprofundamento_Clusters%20Tecnol%C3%B3gicos_Pesquisa.pdf)
 - Slides da apresentação 03: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/1%C2%B0%20API%20-%203%C2%B0%20Sprint.pdf)
 
+## 📊 Planilhas e Códigos criados(as):
+- Planilha por vínculos: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/12Kf-HuPPHWauX33f7DMLrTOyTA4nZKRS/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
+- Planilha das principais engenharias: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/1KdYXmeDd5v8qAFdPyQdRPe6j5sczWuJl/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
+- Planilha dos setores para por nos mapas: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/1JQml4IYKEN5zvgGeTchROIZJNMJjN6Ih/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
+- Planilha para o mapa dos engenheiros: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/1JQml4IYKEN5zvgGeTchROIZJNMJjN6Ih/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
+
+- Códigos:
+  1.Python   [Clique aqui para visualizar](https://colab.research.google.com/drive/1uhx89DLB1-_kmunaJJ5eI5axD66cnTPf?usp=sharing)
+  2.Python   [Clique aqui para visualizar](https://colab.research.google.com/drive/126ZKnN0D0duvAXFLojB2xqdNfTs2t4OG?usp=sharing)
+  3.Python   [Clique aqui para visualizar](https://colab.research.google.com/drive/1Qb8UAywKThSd6LR-R_dZFSuQbwhAeGJr?usp=sharing)
+
+
 
