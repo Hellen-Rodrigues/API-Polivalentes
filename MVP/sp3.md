@@ -92,4 +92,6 @@ Valida o uso do dashboard como ferramenta de apoio à compreensão do mercado de
 - Kanban: [Clique aqui para visualizar](https://canva.link/djwv7fpq2jy9f9v)
 - Pesquisa sobre desenvolvimento econômico e industrial de cidades da região do Vale do Paraíba: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Principais%20Economias%20do%20Vale%20do%20Para%C3%ADba.pdf)
 - Aprofundamento e conclusão da pesquisa de Relação entre os Clusters Tecnológicos e o Desenvolvimento Econômico Regional em SJC: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Aprofundamento_Clusters%20Tecnol%C3%B3gicos_Pesquisa.pdf)
+- - Slides da apresentação 02: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/1%C2%B0%20API%20-%202%C2%B0%20Sprint.pdf)
+
 
