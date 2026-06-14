@@ -4,13 +4,13 @@
 > Ampliar a análise para outras regiões do Vale do Paraíba com relevância industrial e econômica, incorporar dados de diferentes áreas da Engenharia, elaborar gráficos sobre a distribuição geográfica das empresas contratantes de engenheiros, realizar aprimoramentos visuais na plataforma e aprofundar o estudo dos clusters industriais e sua relação com o desenvolvimento tecnológico.
 
 ## 🧩 Problema que resolve 
-Dificuldade na obtenção e visualização de dados sobre empregabilidade, empresas contratantes, polos industriais e demandas do setor de Engenharia no Vale do Paraíba.
+> Dificuldade na obtenção e visualização de dados sobre empregabilidade, empresas contratantes, polos industriais e demandas do setor de Engenharia no Vale do Paraíba.
 
 ## 💡 Hipótese a ser validada
-Um dashboard em Power BI com informações sobre empregabilidade, distribuição geográfica das oportunidades e concentração industrial auxilia estudantes e profissionais na compreensão do mercado de trabalho da Engenharia no Vale do Paraíba.
+> Um dashboard em Power BI com informações sobre empregabilidade, distribuição geográfica das oportunidades e concentração industrial auxilia estudantes e profissionais na compreensão do mercado de trabalho da Engenharia no Vale do Paraíba.
 
 ## 🚀 Valor entregue ao usuário
-Acesso rápido, centralizado e visual à informações relevantes para o planejamento de carreira e no entendimento do cenário profissional da Engenharia no Vale do Paraíba.
+> Acesso rápido, centralizado e visual à informações relevantes para o planejamento de carreira e no entendimento do cenário profissional da Engenharia no Vale do Paraíba.
 
 ---
 
@@ -18,15 +18,17 @@ Acesso rápido, centralizado e visual à informações relevantes para o planeja
 > Esta etapa final do MVP consolida o protótipo do Dashboard API Polivalentes, incorporando feedback crucial do cliente da Sprint 2 e implementando melhorias significativas na Sprint 3. O foco é apresentar uma versão funcional e representativa das capacidades do dashboard para validação da ideia central.
  
 ## ⚙️ Funcionalidades principais
-- Expansão da análise geográfica para incluir São José dos Campos e cinco cidades adjacentes, oferecendo uma visão regional mais abrangente do mercado.
-- Ampliação para abranger dados de diversas áreas da engenharia (não apenas de produção) e integração de um mapa geográfico interativo, identificando setores contratantes de engenheiros.
-- Ajustes visuais 
+> - Expansão da análise geográfica para incluir São José dos Campos e cinco cidades adjacentes, oferecendo uma visão regional mais abrangente do mercado.
+> - Ampliação para abranger dados de diversas áreas da engenharia (não apenas de produção) e integração de um mapa geográfico interativo, identificando setores contratantes de engenheiros.
+> - Ajustes visuais 
 
 ## ⚠️ Limitações
-
+> Limitação dos dados da RAIS: Devido à estrutura da base de dados da RAIS, não é possível identificar empresas específicas com o maior número de engenheiros contratados. A análise está restrita ao nível setorial (CNAE), impossibilitando a distinção individual de empresas dentro de um mesmo setor. Como alternativa, o dashboard apresenta as empresas pertencentes aos setores com maior concentração de profissionais, em vez de um ranking individual de contratações por CNPJ.
 
 ## 🎯 Escopo reduzido
- 
+> Foco na visualização interativa de dados de empregabilidade em Engenharia no Vale do Paraíba, com análise por setores e distribuição geográfica.
+Valida o uso do dashboard como ferramenta de apoio à compreensão do mercado de trabalho e à tomada de decisão.
+
 
 ---
 
@@ -61,21 +63,28 @@ Acesso rápido, centralizado e visual à informações relevantes para o planeja
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
-
+- O MVP deve permitir que o usuário visualize e compare dados de empregabilidade em Engenharia por setor e por diferentes cidades do Vale do Paraíba.
+- O sistema deve apresentar a distribuição geográfica das empresas contratantes, permitindo a análise da concentração industrial e sua relação com o desenvolvimento tecnológico regional.
+- Métricas coletadas:
+  - Expansão de dados do dashboard com inclusão de 5 novas cidades e outras áreas da Engenharia;
+  - Implementação de mais 1 gráfico geográfico interativo, totalizando 9 gráficos;
+  - Aplicação de melhorias visuais com base nos feedbacks da Sprint 2;
+  - Percentual de funcionalidades planejadas implementadas no MVP final: 100%, consolidando a entrega das funcionalidades propostas.
+ 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
+- Número de usuários que testaram o MVP - 7  
+- Número de perguntas do cliente respondidas com apoio das visualizações regionais e geográficas;
+- Tempo médio de interpretação das informações após melhorias visuais (facilidade de análise);
+- Quantidade de comparações entre setores e entre cidades possibilitadas pelo dashboard;
+- Presença e uso de elementos interativos (filtros, segmentações e mapa geográfico);
+- Quantidade de feedbacks recebidos na validação final e número de ajustes realizados;
+- Percentual de funcionalidades que contribuem diretamente para a compreensão do mercado e apoio à tomada de decisão.
 ---
 
 ## 🚀 Próximos Passos  
-- Ajustes e preparação para a Feira de Soluções   
+- Realização dos ajustes necessários após o feedback do cliente,  e preparação para a Feira de Soluções.  
   
 ---
 
