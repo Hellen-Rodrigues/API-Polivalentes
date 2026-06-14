@@ -52,7 +52,7 @@ Objetivos específicos:
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
-| 1 | Alta | Como analista, quero consolidar e filtrar dados de fontes públicas (RAIS, IBGE, etc.) específicas de São José dos Campos, para criar uma base de dados confiável e direcionada ao mapeamento do ecossistema regional. | 34 | 1 |
+| 1 | Alta | Como analista, quero consolidar e filtrar dados de fontes públicas (RAIS, IBGE.) específicas de São José dos Campos, para criar uma base de dados confiável e direcionada ao mapeamento do ecossistema regional. | 34 | 1 |
 | 2 | Alta | Como analista, quero realizar o tratamento, padronização e estruturação analítica dos dados utilizando Python no Google Colab, para garantir a consistência das informações e facilitar a criação de visualizações no Power BI. | 21 | 1 |
 | 3 | Alta | Como analista, quero prototipar as telas do dashboard para garantir que a visualização dos dados seja intuitiva e atenda às necessidades de análise do ecossistema industrial. | 8 | 1 |
 | 4 | Alta | Como analista, quero ver os principais setores industriais e de serviços presentes na região de São José dos Campos para identificar a força econômica local e atrair novos investimentos. | 8 | 2 |
