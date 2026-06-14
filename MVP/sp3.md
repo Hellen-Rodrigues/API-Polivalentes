@@ -18,7 +18,7 @@
 > Esta etapa final do MVP consolida o protótipo do Dashboard API Polivalentes, incorporando feedback crucial do cliente da Sprint 2 e implementando melhorias significativas na Sprint 3. O foco é apresentar uma versão funcional e representativa das capacidades do dashboard para validação da ideia central.
  
 ## ⚙️ Funcionalidades principais
-> - Expansão da análise geográfica para incluir São José dos Campos e cinco cidades adjacentes, oferecendo uma visão regional mais abrangente do mercado.
+> - Expansão da análise geográfica para incluir São José dos Campos e quatro cidades adjacentes, oferecendo uma visão regional mais abrangente do mercado.
 > - Ampliação para abranger dados de diversas áreas da engenharia (não apenas de produção) e integração de um mapa geográfico interativo, identificando setores contratantes de engenheiros.
 > - Ajustes visuais 
 
