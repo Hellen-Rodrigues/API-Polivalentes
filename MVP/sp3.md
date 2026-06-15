@@ -95,6 +95,7 @@ Valida o uso do dashboard como ferramenta de apoio à compreensão do mercado de
 - Aprofundamento e conclusão da pesquisa sobre os Clusters Tecnológicos em SJC: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Aprofundamento_Clusters%20Tecnol%C3%B3gicos_Pesquisa.pdf)
 - Slides da apresentação 03: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/1%C2%B0%20API%20-%203%C2%B0%20Sprint.pdf)
 - Relatório Técnico: [Clique aqui para visualizar](https://docs.google.com/document/d/1BumZKWTggAvO0K46lHmUM0owGqI4nUvg9rnEKmxjkaM/edit?usp=sharing)
+- Vídeo de Apresentação do Projeto (3ºSprint): [Clique aqui para assistir](https://youtu.be/f5e4HJqpMF8)
 
 ## 📊 Planilhas e Códigos criados(as):
 - Planilha por vínculos: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/12Kf-HuPPHWauX33f7DMLrTOyTA4nZKRS/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
